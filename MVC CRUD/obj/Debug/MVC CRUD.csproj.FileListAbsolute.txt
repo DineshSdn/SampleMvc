@@ -1,0 +1,95 @@
+D:\MVC POC\MVC\MVC CRUD\bin\MVC CRUD.dll.config
+D:\MVC POC\MVC\MVC CRUD\bin\MVC CRUD.dll
+D:\MVC POC\MVC\MVC CRUD\bin\MVC CRUD.pdb
+D:\MVC POC\MVC\MVC CRUD\bin\roslyn\csc.exe
+D:\MVC POC\MVC\MVC CRUD\bin\roslyn\csc.exe.config
+D:\MVC POC\MVC\MVC CRUD\bin\roslyn\csc.rsp
+D:\MVC POC\MVC\MVC CRUD\bin\roslyn\csi.exe
+D:\MVC POC\MVC\MVC CRUD\bin\roslyn\csi.exe.config
+D:\MVC POC\MVC\MVC CRUD\bin\roslyn\csi.rsp
+D:\MVC POC\MVC\MVC CRUD\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\MVC POC\MVC\MVC CRUD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\MVC POC\MVC\MVC CRUD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\MVC POC\MVC\MVC CRUD\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\MVC POC\MVC\MVC CRUD\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\MVC POC\MVC\MVC CRUD\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\MVC POC\MVC\MVC CRUD\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\MVC POC\MVC\MVC CRUD\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\MVC POC\MVC\MVC CRUD\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\MVC POC\MVC\MVC CRUD\bin\roslyn\Microsoft.Managed.Core.targets
+D:\MVC POC\MVC\MVC CRUD\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\MVC POC\MVC\MVC CRUD\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\MVC POC\MVC\MVC CRUD\bin\roslyn\System.AppContext.dll
+D:\MVC POC\MVC\MVC CRUD\bin\roslyn\System.Collections.Immutable.dll
+D:\MVC POC\MVC\MVC CRUD\bin\roslyn\System.Console.dll
+D:\MVC POC\MVC\MVC CRUD\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\MVC POC\MVC\MVC CRUD\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\MVC POC\MVC\MVC CRUD\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\MVC POC\MVC\MVC CRUD\bin\roslyn\System.Globalization.Calendars.dll
+D:\MVC POC\MVC\MVC CRUD\bin\roslyn\System.IO.Compression.dll
+D:\MVC POC\MVC\MVC CRUD\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\MVC POC\MVC\MVC CRUD\bin\roslyn\System.IO.FileSystem.dll
+D:\MVC POC\MVC\MVC CRUD\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\MVC POC\MVC\MVC CRUD\bin\roslyn\System.Net.Http.dll
+D:\MVC POC\MVC\MVC CRUD\bin\roslyn\System.Net.Sockets.dll
+D:\MVC POC\MVC\MVC CRUD\bin\roslyn\System.Reflection.Metadata.dll
+D:\MVC POC\MVC\MVC CRUD\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\MVC POC\MVC\MVC CRUD\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\MVC POC\MVC\MVC CRUD\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\MVC POC\MVC\MVC CRUD\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\MVC POC\MVC\MVC CRUD\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\MVC POC\MVC\MVC CRUD\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\MVC POC\MVC\MVC CRUD\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\MVC POC\MVC\MVC CRUD\bin\roslyn\System.ValueTuple.dll
+D:\MVC POC\MVC\MVC CRUD\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\MVC POC\MVC\MVC CRUD\bin\roslyn\System.Xml.XmlDocument.dll
+D:\MVC POC\MVC\MVC CRUD\bin\roslyn\System.Xml.XPath.dll
+D:\MVC POC\MVC\MVC CRUD\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\MVC POC\MVC\MVC CRUD\bin\roslyn\vbc.exe
+D:\MVC POC\MVC\MVC CRUD\bin\roslyn\vbc.exe.config
+D:\MVC POC\MVC\MVC CRUD\bin\roslyn\vbc.rsp
+D:\MVC POC\MVC\MVC CRUD\bin\roslyn\VBCSCompiler.exe
+D:\MVC POC\MVC\MVC CRUD\bin\roslyn\VBCSCompiler.exe.config
+D:\MVC POC\MVC\MVC CRUD\bin\Antlr3.Runtime.dll
+D:\MVC POC\MVC\MVC CRUD\bin\EntityFramework.dll
+D:\MVC POC\MVC\MVC CRUD\bin\EntityFramework.SqlServer.dll
+D:\MVC POC\MVC\MVC CRUD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\MVC POC\MVC\MVC CRUD\bin\Microsoft.Web.Infrastructure.dll
+D:\MVC POC\MVC\MVC CRUD\bin\Newtonsoft.Json.dll
+D:\MVC POC\MVC\MVC CRUD\bin\System.Web.Helpers.dll
+D:\MVC POC\MVC\MVC CRUD\bin\System.Web.Mvc.dll
+D:\MVC POC\MVC\MVC CRUD\bin\System.Web.Optimization.dll
+D:\MVC POC\MVC\MVC CRUD\bin\System.Web.Razor.dll
+D:\MVC POC\MVC\MVC CRUD\bin\System.Web.WebPages.Deployment.dll
+D:\MVC POC\MVC\MVC CRUD\bin\System.Web.WebPages.dll
+D:\MVC POC\MVC\MVC CRUD\bin\System.Web.WebPages.Razor.dll
+D:\MVC POC\MVC\MVC CRUD\bin\WebGrease.dll
+D:\MVC POC\MVC\MVC CRUD\bin\EntityFramework.xml
+D:\MVC POC\MVC\MVC CRUD\bin\EntityFramework.SqlServer.xml
+D:\MVC POC\MVC\MVC CRUD\bin\System.Web.Helpers.xml
+D:\MVC POC\MVC\MVC CRUD\bin\System.Web.Mvc.xml
+D:\MVC POC\MVC\MVC CRUD\bin\System.Web.Optimization.xml
+D:\MVC POC\MVC\MVC CRUD\bin\System.Web.Razor.xml
+D:\MVC POC\MVC\MVC CRUD\bin\System.Web.WebPages.xml
+D:\MVC POC\MVC\MVC CRUD\bin\System.Web.WebPages.Deployment.xml
+D:\MVC POC\MVC\MVC CRUD\bin\System.Web.WebPages.Razor.xml
+D:\MVC POC\MVC\MVC CRUD\bin\Newtonsoft.Json.xml
+D:\MVC POC\MVC\MVC CRUD\bin\Antlr3.Runtime.pdb
+D:\MVC POC\MVC\MVC CRUD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\MVC POC\MVC\MVC CRUD\obj\Debug\MVC CRUD.csproj.AssemblyReference.cache
+D:\MVC POC\MVC\MVC CRUD\obj\Debug\MVC CRUD.csproj.CoreCompileInputs.cache
+D:\MVC POC\MVC\MVC CRUD\obj\Debug\MVC CRUD.csproj.Up2Date
+D:\MVC POC\MVC\MVC CRUD\obj\Debug\MVC CRUD.dll
+D:\MVC POC\MVC\MVC CRUD\obj\Debug\MVC CRUD.pdb
+D:\MVC POC\MVC\MVC CRUD\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\MVC POC\MVC\MVC CRUD\bin\System.Threading.Tasks.Extensions.dll
+D:\MVC POC\MVC\MVC CRUD\bin\Unity.Abstractions.dll
+D:\MVC POC\MVC\MVC CRUD\bin\Unity.Container.dll
+D:\MVC POC\MVC\MVC CRUD\bin\Unity.Mvc.dll
+D:\MVC POC\MVC\MVC CRUD\bin\WebActivatorEx.dll
+D:\MVC POC\MVC\MVC CRUD\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\MVC POC\MVC\MVC CRUD\bin\System.Threading.Tasks.Extensions.xml
+D:\MVC POC\MVC\MVC CRUD\bin\Unity.Abstractions.pdb
+D:\MVC POC\MVC\MVC CRUD\bin\Unity.Container.pdb
+D:\MVC POC\MVC\MVC CRUD\bin\Unity.Mvc.pdb
+D:\MVC POC\MVC\MVC CRUD\bin\Unity.Mvc.xml
